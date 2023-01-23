@@ -24,9 +24,11 @@ Built a static qr code webpage which is a challenge from Frontend Mentor. This i
 
 Here's a screenshot of the webpage built 
 Mobile view (375 * 667)
+
 ![Mobile-preview](images/mobile-preview-screenshot.png)
 
 Desktop view (1440 * 660)
+
 ![desktop-preview](images/desktop-preview-screenshot.png)
 
 ### Links
