@@ -33,8 +33,8 @@ Desktop view (1440 * 660)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/Obikaviola/QR-code-challenge)
+- Live Site URL: [Add live site URL here](https://qr-code-challenge-gold.vercel.app/)
 
 ## My process
 To build this, I first made the root margin and padding to 0px, then styled the body and gave it display flex and als0 made the width and height of the body 100%. I moved on to styling the container which contained the qr code image, the header and the paragraph. Then I styled the rest of the elements.
