@@ -10,7 +10,8 @@ body{
     min-height: 100vh;
     display: flex;
     flex-direction: column;
-    place-content: center center;
+    justify-content: center;
+    align-content: center;
 }
 
 /* Styling the container */
