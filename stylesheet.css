@@ -8,10 +8,8 @@
 body{
     background-color: hsl(212, 45%, 89%);
     min-height: 100vh;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-content: center;
+    display: grid;
+    place-content: center;
 }
 
 /* Styling the container */
@@ -27,7 +25,6 @@ body{
     background-color: hsl(0, 0%, 100%);
     border-radius: 20px;
     max-width: 320px;
-    /* max-width: 320px; */
 }
 /* Styling the qr code image */
 .qr-code-image{
