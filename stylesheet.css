@@ -16,8 +16,7 @@ body{
 .container{
     display: flex;
     flex-direction: column;
-    align-content: center;
-    justify-content: center;
+    place-content: center;
     margin: 2rem;
     font-family: 'Outfit', sans-serif;
     padding: 1.2rem;
