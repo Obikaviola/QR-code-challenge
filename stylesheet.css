@@ -10,6 +10,7 @@ body{
     min-height: 100vh;
     display: grid;
     place-content: center;
+    align-items: center;
 }
 
 /* Styling the container */
